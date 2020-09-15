@@ -16,6 +16,7 @@ variable "sku" {}
 variable "offer" {}
 variable "version" {}
 variable "admin_username" {}
+
 variable "tags" {
   type = "map"
 }
